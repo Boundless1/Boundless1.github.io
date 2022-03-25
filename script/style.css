@@ -170,7 +170,7 @@ body{
     background-image: url(../img/星空1.jpg);
     overflow: hidden;
     background-size: cover;
-    font-size: 0.68rem;
+    font-size: 0.66rem;
     transition: opacity 5s;
 }
 
